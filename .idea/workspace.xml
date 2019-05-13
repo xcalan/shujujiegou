@@ -2,11 +2,151 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216af96d-6ec6-4ec9-a195-4e583d1f71f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/数据结构.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_single_cycle_link_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_dequeue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09_bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_select_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_insert_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BPnetwork_new.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RLS_BPnetwork/FMF_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RLS_BPnetwork/RLS_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RLS_BPnetwork/figure.eps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RLS_BPnetwork/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fig_show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter1/section8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter2/section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter2/section2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter2/section3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter2/section4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter3/section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter3/section2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter3/section3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter4/section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter4/section2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter5/section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter5/section2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter5/section3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter6/section8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter7/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter7/section1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/chapter7/section2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/fonts/fontawesome/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/images/apple-touch-icon-precomposed-152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-fontsettings/buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-fontsettings/website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-highlight/ebook.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-highlight/website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-search/lunr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-search/search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/plugins/gitbook-plugin-sharing/buttons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/gitbook/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/Binary_search_into_array.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/Insertion-sort-example.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/Merge-sort-example.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/Selection-Sort-Animation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/Treedatastructure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/bubble.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/bubblesort.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/compare.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/dict操作.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/googlesort.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/insert.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/insert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/list操作.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/quicksort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/selection.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/selectionsort.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/shellsort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/shellsort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/stack演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/三种遍历结果.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/单向循环链表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/单向链表图示.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/单链表删除节点.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/单链表指定位置添加元素.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/单链表的节点和单链表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/单链表表头插入元素.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/双向链表.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/双向链表删除节点.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/双向链表指定位置插入元素.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/双端队列.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/完全二叉树.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/归并排序演示.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/快速排序.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/排序比较.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/排队.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/栈.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/树的链式存储.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/树的顺序存储.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/树练习.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/满二叉树.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/算法效率关系.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/网页结构.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/队列模型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/顺序表删除元素.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/顺序表增加元素.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/顺序表的两种基本形式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/顺序表的实现方式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/images/顺序表的结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/search_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/Python变量标识本质.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/code.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/分支结构取最大.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/单链表操作.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/基本顺序表与元素外置.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/时间曲线.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/枚举法.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/类型与内存.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/链表.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/顺序表一体式与分离式.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第01天/顺序表表头与数据区.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第02天/code 2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第02天/单向循环链表.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第02天/单链表.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第02天/双向链表.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第03天/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第03天/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第03天/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第03天/code.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第03天/课堂绘图.001.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/截图和代码/第03天/课堂绘图.002.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python数据结构资料/数据结构与算法（Python）目录.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/00_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_double_link_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/04_double_link_list.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,49 +154,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_abc.py">
+        <entry file="file://$PROJECT_DIR$/12_shell_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/02_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_single_link_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="718">
-              <caret line="108" column="16" lean-forward="true" selection-start-line="92" selection-start-column="3" selection-end-line="108" selection-end-column="16" />
+            <state relative-caret-position="475">
+              <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_double_link_list.py">
+        <entry file="file://$PROJECT_DIR$/13_quick_sort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/00_exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="325">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -78,17 +205,26 @@
       <list>
         <option value="$PROJECT_DIR$/01_abc.py" />
         <option value="$PROJECT_DIR$/02_list.py" />
-        <option value="$PROJECT_DIR$/00_exercise.py" />
         <option value="$PROJECT_DIR$/double_link_list.py" />
         <option value="$PROJECT_DIR$/03_single_link_list.py" />
+        <option value="$PROJECT_DIR$/05_single_cycle_link_list.py" />
+        <option value="$PROJECT_DIR$/08_dequeue.py" />
+        <option value="$PROJECT_DIR$/06_stack.py" />
+        <option value="$PROJECT_DIR$/07_queue.py" />
         <option value="$PROJECT_DIR$/04_double_link_list.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/BPnetwork.py" />
+        <option value="$PROJECT_DIR$/00_exercise.py" />
+        <option value="$PROJECT_DIR$/09_bubble_sort.py" />
+        <option value="$PROJECT_DIR$/10_select_sort.py" />
+        <option value="$PROJECT_DIR$/11_insert_sort.py" />
+        <option value="$PROJECT_DIR$/12_shell_sort.py" />
+        <option value="$PROJECT_DIR$/parameter_test.py" />
+        <option value="$PROJECT_DIR$/BPnetwork_new.py" />
+        <option value="$PROJECT_DIR$/RLS_test.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/fig_show.py" />
+        <option value="$PROJECT_DIR$/RLS_BPnetwork/main.py" />
+        <option value="$PROJECT_DIR$/13_quick_sort.py" />
       </list>
     </option>
   </component>
@@ -125,7 +261,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\MyPythonCode\数据结构\RLS_BPnetwork" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MyPythonCode\数据结构" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,8 +283,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.00_exercise">
-    <configuration name="00_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.13_quick_sort">
+    <configuration name="13_quick_sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +297,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/00_exercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13_quick_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01_abc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BPnetwork_new" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,7 +319,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_abc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BPnetwork_new.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fig_show" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,7 +341,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fig_show.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +350,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_single_link_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="数据结构" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RLS_BPnetwork" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RLS_BPnetwork/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="数据结构" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,7 +385,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\MyPythonCode\数据结构\03_single_link_list.py" />
+      <option name="SCRIPT_NAME" value="E:\MyPythonCode\数据结构\RLS_BPnetwork\main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,10 +396,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.00_exercise" />
-        <item itemvalue="Python.03_single_link_list" />
-        <item itemvalue="Python.02_list" />
-        <item itemvalue="Python.01_abc" />
+        <item itemvalue="Python.13_quick_sort" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.fig_show" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.BPnetwork_new" />
       </list>
     </recent_temporary>
   </component>
@@ -250,7 +417,20 @@
       <workItem from="1556330909921" duration="8568000" />
       <workItem from="1556415300109" duration="16758000" />
       <workItem from="1556519911007" duration="1209000" />
-      <workItem from="1556591024186" duration="1645000" />
+      <workItem from="1556591024186" duration="2922000" />
+      <workItem from="1556766549367" duration="832000" />
+      <workItem from="1556958684131" duration="14115000" />
+      <workItem from="1557017797531" duration="6210000" />
+      <workItem from="1557044169523" duration="37000" />
+      <workItem from="1557065106046" duration="611000" />
+      <workItem from="1557106261543" duration="17233000" />
+      <workItem from="1557190899096" duration="11725000" />
+      <workItem from="1557319339775" duration="4991000" />
+      <workItem from="1557477165570" duration="18412000" />
+      <workItem from="1557538616167" duration="17171000" />
+      <workItem from="1557563518623" duration="5421000" />
+      <workItem from="1557649173790" duration="22681000" />
+      <workItem from="1557709840557" duration="18675000" />
     </task>
     <task id="LOCAL-00001" summary="链表">
       <created>1556593492403</created>
@@ -263,7 +443,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28180000" />
+    <option name="totallyTimeSpent" value="167571000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -276,29 +456,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18516542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15314835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32934782" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4994664" visible="true" weight="0.38671023" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19825707" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32897604" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32934782" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32934782" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053364" side_tool="true" weight="0.25381264" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32897604" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32897604" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.41782284" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32977587" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,12 +489,43 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$02_list.coverage" NAME="02_list Coverage Results" MODIFIED="1556342308197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$00_exercise.coverage" NAME="00_exercise Coverage Results" MODIFIED="1556442551811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$BPnetwork.coverage" NAME="BPnetwork Coverage Results" MODIFIED="1557144315048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$BPnetwork_new.coverage" NAME="BPnetwork_new Coverage Results" MODIFIED="1557673121934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$09_bubble_sort.coverage" NAME="09_bubble_sort Coverage Results" MODIFIED="1557041964007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$parameter_test.coverage" NAME="parameter_test Coverage Results" MODIFIED="1557552048246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1557724065152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RLS_BPnetwork" />
+    <SUITE FILE_PATH="coverage/$06_stack.coverage" NAME="06_stack Coverage Results" MODIFIED="1556972205234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$13_quick_sort.coverage" NAME="13_quick_sort Coverage Results" MODIFIED="1557734717253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$00_exercise.coverage" NAME="00_exercise Coverage Results" MODIFIED="1557195353552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$10_select_sort.coverage" NAME="10_select_sort Coverage Results" MODIFIED="1557212963839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main Coverage Results" MODIFIED="1557716384979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$fig_show.coverage" NAME="fig_show Coverage Results" MODIFIED="1557722298147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$03_single_link_list.coverage" NAME="03_single_link_list Coverage Results" MODIFIED="1556438416834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$07_queue.coverage" NAME="07_queue Coverage Results" MODIFIED="1556979955364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_abc.coverage" NAME="01_abc Coverage Results" MODIFIED="1556332441343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$11_insert_sort.coverage" NAME="11_insert_sort Coverage Results" MODIFIED="1557216881865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$12_shell_sort.coverage" NAME="12_shell_sort Coverage Results" MODIFIED="1557323404250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$04_double_link_list.coverage" NAME="04_double_link_list Coverage Results" MODIFIED="1557038409556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/03_single_link_list(old).py" />
+    <entry file="file://$PROJECT_DIR$/05_single_cycle_link_list.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Python 3.5.1/Lib/site-packages/neurolab/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="158" column="8" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python 3.5.1/Lib/site-packages/neurolab/net.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="56" column="36" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_abc.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -323,31 +533,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/02_list.py">
+    <entry file="file://$PROJECT_DIR$/08_dequeue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="200">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/00_exercise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        <state relative-caret-position="225">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03_single_link_list.py">
+    <entry file="file://$PROJECT_DIR$/09_bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="718">
-          <caret line="108" column="16" lean-forward="true" selection-start-line="92" selection-start-column="3" selection-end-line="108" selection-end-column="16" />
+        <state relative-caret-position="-27">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/04_double_link_list.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="548">
+          <caret line="118" column="16" selection-start-line="118" selection-start-column="16" selection-end-line="118" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_single_link_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1041">
+          <caret line="97" column="17" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_select_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_insert_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vali.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BPnetwork.py" />
+    <entry file="file://$PROJECT_DIR$/BPnetwork_new.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="177" column="4" selection-start-line="177" selection-start-column="4" selection-end-line="177" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python 3.5.1/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1237">
+          <caret line="2807" column="4" selection-start-line="2807" selection-start-column="4" selection-end-line="2807" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fig_show.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="39" column="10" selection-start-line="2" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLS_BPnetwork/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="138" column="25" selection-start-line="138" selection-start-column="16" selection-end-line="138" selection-end-column="25" />
+          <folding>
+            <element signature="e#88#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RLS_BPnetwork/RLS_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1525">
+          <caret line="143" lean-forward="true" selection-start-line="143" selection-end-line="143" />
+          <folding>
+            <element signature="e#84#102#0" expanded="true" />
+            <element signature="e#2172#2233#0" />
+            <element signature="e#3796#3824#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_shell_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13_quick_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
         </state>
       </provider>
     </entry>

@@ -1,47 +1,26 @@
-class Node:
-    def __init__(self, elem):
-        self.elem = elem
-        self.next = None
+# -*- coding:utf-8 -*-
 
 
-class SingleList:
-    def __init__(self, node=None):
-        self._head = node
+class Solution:
+    def maxInWindows(self, num, size):
+        # write code here
+        #num=[2,3,4,2,6,2,5,1]
+        #size=3
 
-    # 尾插
-    def append(self, item):
-        node = Node(item)
-        cur = self._head
-        if self._head == None:
-            self._head = node
-        else:
-            while cur.next != None:
-                cur = cur.next
-            cur.next = node
+        if num is None or size==0:
+            return []
+        if size > len(num):
+            size = len(num)
+        max_list = []
+        for i in range(0, len(num)-size+1):
+            l = []
+            for j in range(i, i+size):
+                l.append(num[j])
+            max_list.append(max(l))
+        return max_list
 
-    # 遍历
-    def travel(self):
-        cur = self._head
-        while cur != None:
-            print(cur.elem, end=" ")
-            cur = cur.next
-
-    def printListFromTailToHead(self):
-        cur = self._head
-        l=[]
-        while cur != None:
-            l += [cur.elem]
-            cur=cur.next
-        return l[::-1]
 
 if __name__ == '__main__':
-    sll=SingleList()
-    sll.append(1)
-    sll.append(2)
-    sll.append(3)
-    sll.append(4)
-    sll.append(5)
-    sll.travel()
-    print(" ")
-    arr = sll.printListFromTailToHead()
-    print(arr)
+    s = Solution()
+    li = s.maxInWindows([2,3,4,2,6,2,5,1], 3)
+    print(li)
