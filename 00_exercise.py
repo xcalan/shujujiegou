@@ -1,26 +1,31 @@
 # -*- coding:utf-8 -*-
 
-
 class Solution:
-    def maxInWindows(self, num, size):
-        # write code here
-        #num=[2,3,4,2,6,2,5,1]
-        #size=3
+    def minNumberInRotateArray(self, rotateArray):
+        length = len(rotateArray)
+        if length == 0:
+            return 0
+        if length == 1:
+            return rotateArray[0]
 
-        if num is None or size==0:
-            return []
-        if size > len(num):
-            size = len(num)
-        max_list = []
-        for i in range(0, len(num)-size+1):
-            l = []
-            for j in range(i, i+size):
-                l.append(num[j])
-            max_list.append(max(l))
-        return max_list
+        left, right = 0, length - 1
+
+        while left <= right:
+            mid = (left + right) // 2
+            if rotateArray[mid] < rotateArray[right]:
+                right = mid
+            elif rotateArray[mid] > rotateArray[right]:
+                left = mid+1
+            else:
+                right -= 1
+            # if left >= right:
+            #     break
+        return rotateArray[left]
 
 
 if __name__ == '__main__':
+    l = [6501,6828,6963,7036,7422,7674,8146,8468,8704,8717,9170,9359,9719,9895,9896,9913,9962,154,293,334,492,1323,1479,1539,1727,1870,1943,2383,2392,2996,3282,3812,3903,4465,4605,4665,4772,4828,5142,5437,5448,5668,5706,5725,6300,6335]
+
     s = Solution()
-    li = s.maxInWindows([2,3,4,2,6,2,5,1], 3)
-    print(li)
+    # print(s.minNumberInRotateArray(l))
+    print(s.minNumberInRotateArray(l))

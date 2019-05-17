@@ -1,5 +1,6 @@
 # coding:utf-8
 # 选择排序
+# 从当前元素往后选择最小的，与当前元素交换
 
 
 def select_sort(alist):

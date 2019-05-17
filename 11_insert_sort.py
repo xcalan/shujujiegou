@@ -1,5 +1,6 @@
 # coding:utf-8
 # 插入排序
+# 从当前元素开始往前找属于自己的位置，插到序列中
 
 
 def insert_sort(alist):
